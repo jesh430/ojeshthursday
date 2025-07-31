@@ -10,5 +10,5 @@ what I have learned in last 4 days:-
 - Markdown and Markup
 
 ## Other things I have learned
-> Learned how to setup a computer for software development. Installed and configured settings and apps to write and publish software. Learned the basics of computer navigation and administration
-> followed the Computer Setup Guide to prepare your development machine for serious coding.
+- Learned how to setup a computer for software development. Installed and configured settings and apps to write and publish software. Learned the basics of computer navigation and administration
+- followed the Computer Setup Guide to prepare your development machine for serious coding.
